@@ -10,7 +10,7 @@ For the schema design, the STAR schema is used as it simplifies queries and prov
 - Python for building and designing the ETL pipeline.
 - Google BigQuery for schema design and data storage.
 
-#### Data Available in JSON format:
+### Data Available in JSON format:
 - Song data: Includes information about songs and artists, which is extracted and loaded into the users and artists dimension tables.
 - Log data: Provides details about each user session. From this log data, information is extracted and loaded into the users dimension tables, as well as the songplays fact table.
 
