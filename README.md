@@ -6,7 +6,7 @@ For the schema design, the STAR schema is used as it simplifies queries and prov
 
 ![image](https://github.com/MNCEDISIMNCWABE/Songs-Data-Modelling/assets/67195600/391a5799-0ed9-491b-8b8b-40f580944ac6)
 
-#### Tech Stack
+### Tech Stack
 - Python for building and designing the ETL pipeline.
 - Google BigQuery for schema design and data storage.
 
